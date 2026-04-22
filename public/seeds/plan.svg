@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F5F3EE"/>
+  <g stroke="#0B0B0C" stroke-width="1.2">
+    <rect x="160" y="140" width="480" height="320" fill="none"/>
+    <line x1="160" y1="260" x2="640" y2="260"/>
+    <line x1="160" y1="360" x2="640" y2="360"/>
+    <line x1="320" y1="140" x2="320" y2="460"/>
+    <line x1="480" y1="140" x2="480" y2="460"/>
+  </g>
+  <g stroke="#0B0B0C" stroke-width="0.5" opacity="0.4">
+    <line x1="140" y1="120" x2="660" y2="120"/>
+    <line x1="140" y1="120" x2="140" y2="480"/>
+    <line x1="660" y1="120" x2="660" y2="480"/>
+    <line x1="140" y1="480" x2="660" y2="480"/>
+  </g>
+  <text x="160" y="520" font-family="ui-monospace,monospace" font-size="10" fill="#0B0B0C" opacity="0.5">PLAN · SCALE 1:200 · N ↑</text>
+  <circle cx="600" cy="200" r="18" fill="none" stroke="#E25822" stroke-width="1.5"/>
+  <text x="594" y="205" font-family="ui-monospace,monospace" font-size="12" fill="#E25822">N</text>
+</svg>

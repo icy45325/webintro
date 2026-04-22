@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #f5f3ee;
+  --color-ink: #0b0b0c;
+  --color-accent: #e25822;
+
+  --font-sans: "Inter", "Noto Sans SC", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Fraunces", "Noto Serif SC", ui-serif, Georgia, serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    background: var(--color-bg);
+    color: var(--color-ink);
+  }
+
+  ::selection {
+    background: var(--color-ink);
+    color: var(--color-bg);
+  }
+}
+
+@utility hairline-top {
+  border-top: 1px solid color-mix(in oklab, var(--color-ink) 10%, transparent);
+}
+@utility hairline-bottom {
+  border-bottom: 1px solid color-mix(in oklab, var(--color-ink) 10%, transparent);
+}
