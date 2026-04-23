@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D8D2C2"/>
+      <stop offset="1" stop-color="#938776"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g1)"/>
+  <g opacity="0.55">
+    <path d="M0 520 Q200 470 420 500 T860 500 T1200 510 L1200 800 L0 800 Z" fill="#6D6252"/>
+    <path d="M0 620 Q300 580 620 620 T1200 620 L1200 800 L0 800 Z" fill="#4B4438"/>
+  </g>
+  <g fill="#2B2620">
+    <rect x="500" y="440" width="220" height="140"/>
+    <rect x="720" y="480" width="120" height="100"/>
+    <polygon points="500,440 610,380 720,440"/>
+    <polygon points="720,480 780,440 840,480"/>
+  </g>
+  <g stroke="#2B2620" stroke-width="1" opacity="0.5">
+    <line x1="520" y1="460" x2="520" y2="580"/>
+    <line x1="560" y1="460" x2="560" y2="580"/>
+    <line x1="600" y1="460" x2="600" y2="580"/>
+    <line x1="640" y1="460" x2="640" y2="580"/>
+    <line x1="680" y1="460" x2="680" y2="580"/>
+  </g>
+  <rect x="0" y="0" width="1200" height="800" fill="#0B0B0C" fill-opacity="0.06"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <rect width="1200" height="800" fill="#EDE9E0"/>
+  <g stroke="#0B0B0C" stroke-width="0.8" fill="none" opacity="0.7">
+    <path d="M100 600 L220 520 L340 600 L220 680 Z"/>
+    <path d="M260 560 L380 480 L500 560 L380 640 Z"/>
+    <path d="M420 600 L540 520 L660 600 L540 680 Z"/>
+    <path d="M580 560 L700 480 L820 560 L700 640 Z"/>
+    <path d="M740 600 L860 520 L980 600 L860 680 Z"/>
+    <path d="M900 560 L1020 480 L1140 560 L1020 640 Z"/>
+  </g>
+  <g stroke="#0B0B0C" stroke-width="0.8" fill="none" opacity="0.5">
+    <path d="M220 520 L220 440"/>
+    <path d="M380 480 L380 400"/>
+    <path d="M540 520 L540 440"/>
+    <path d="M700 480 L700 400"/>
+    <path d="M860 520 L860 440"/>
+    <path d="M1020 480 L1020 400"/>
+  </g>
+  <g font-family="ui-monospace, monospace" font-size="14" fill="#0B0B0C" opacity="0.5">
+    <text x="120" y="730">01</text>
+    <text x="280" y="730">02</text>
+    <text x="440" y="730">03</text>
+    <text x="600" y="730">04</text>
+    <text x="760" y="730">05</text>
+    <text x="920" y="730">06</text>
+  </g>
+  <g stroke="#E25822" stroke-width="1.5" fill="none">
+    <path d="M100 360 L1140 360"/>
+  </g>
+  <text x="100" y="340" font-family="ui-monospace, monospace" font-size="16" fill="#E25822">VILLAGE ARCHIVE · 2021—</text>
+</svg>

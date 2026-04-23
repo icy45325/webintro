@@ -1,0 +1,68 @@
+{
+  "site": {
+    "studio": "Nanfeng Architects",
+    "studioShort": "Nanfeng",
+    "tagline": "Quiet form in response to site and the ordinary"
+  },
+  "nav": {
+    "home": "Home",
+    "works": "Works",
+    "philosophy": "Philosophy",
+    "cv": "CV",
+    "contact": "Contact"
+  },
+  "home": {
+    "selectedWorks": "Selected Works",
+    "viewAll": "View all →",
+    "philosophyHeading": "Philosophy",
+    "philosophyReadMore": "Read more →",
+    "contactCta": "Get in touch",
+    "scroll": "Scroll"
+  },
+  "works": {
+    "title": "Works",
+    "subtitle": "Built, Concept, Research",
+    "all": "All",
+    "built": "Built",
+    "concept": "Concept",
+    "research": "Research",
+    "empty": "No works yet."
+  },
+  "workDetail": {
+    "year": "Year",
+    "location": "Location",
+    "program": "Program",
+    "area": "Area",
+    "status": "Status",
+    "client": "Client",
+    "role": "Role",
+    "collaborators": "Collaborators",
+    "photographer": "Photography",
+    "previous": "Previous",
+    "next": "Next",
+    "process": "Process",
+    "drawings": "Drawings",
+    "previewNotice": "Under NDA. Only cover information is shown."
+  },
+  "philosophy": {
+    "title": "Philosophy"
+  },
+  "cv": {
+    "title": "CV"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Available for commissions, lectures and collaborations.",
+    "emailLabel": "Email",
+    "addressLabel": "Studio",
+    "wechatLabel": "WeChat",
+    "instagramLabel": "Instagram"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  },
+  "meta": {
+    "homeTitle": "Nanfeng Architects",
+    "homeDescription": "An independent architecture studio focused on site, material and the everyday."
+  }
+}

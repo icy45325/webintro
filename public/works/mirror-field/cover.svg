@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2A2D3A"/>
+      <stop offset="0.6" stop-color="#6F6A5F"/>
+      <stop offset="1" stop-color="#B8AD95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#dusk)"/>
+  <g opacity="0.9">
+    <rect x="150" y="400" width="40" height="260" fill="#F5F3EE"/>
+    <rect x="260" y="380" width="40" height="280" fill="#D8D2C2"/>
+    <rect x="370" y="420" width="40" height="240" fill="#F5F3EE"/>
+    <rect x="480" y="360" width="40" height="300" fill="#EDE9E0"/>
+    <rect x="590" y="440" width="40" height="220" fill="#F5F3EE"/>
+    <rect x="700" y="380" width="40" height="280" fill="#D8D2C2"/>
+    <rect x="810" y="420" width="40" height="240" fill="#F5F3EE"/>
+    <rect x="920" y="360" width="40" height="300" fill="#EDE9E0"/>
+  </g>
+  <rect x="0" y="660" width="1200" height="140" fill="#0B0B0C" opacity="0.3"/>
+  <circle cx="900" cy="180" r="50" fill="#E25822" opacity="0.9"/>
+</svg>
